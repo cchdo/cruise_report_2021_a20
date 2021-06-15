@@ -1,0 +1,12 @@
+GO-BGC Float Deployment Sampling
+=================
+
+PIs
+  
+  * Kenneth Johnson (MBARI)
+  * Lynne Talley (SIO)
+  * Steven Riser (UW)
+
+
+8 biogeochemical floats have been deployed, as part of the GO-BGC program. HPLC and POC samples at each float location were taken from the Niskin bottles tripped as duplicates, at the surface and at the chlorophyll maximum depths (DCM), or the base of the mixed layer if the DCM was not present. The samples were filtered by SIO/ODF team (Susan Becker and Alexandra Fine), and will be sent frozen to the U.S. for analysis (NASA for HPLC and SIO/UCSD for POC). 
+

@@ -1,0 +1,17 @@
+Program,Affiliation,Principal Investigator,Email
+":term:`CTDO` Data, Salinity, Nutrients, Dissolved |O2|",":term:`UCSD`, :term:`SIO`","Susan Becker, Jim Swift","sbecker@ucsd.edu, jswift@ucsd.edu"
+Total |CO2| (DIC),":term:`AOML`, :term:`PMEL`, :term:`NOAA`","Richard Feely, Rik Wanninkhof","richard.a.feely@noaa.gov, Rik.Wanninkhof@noaa.gov"
+"Underway Temperature, Salinity, and |pCO2|",":term:`PMEL`, :term:`NOAA`",Richard Feely,richard.a.feely@noaa.gov
+"Total Alkalinity, pH",":term:`SIO`, :term:`RSMAS`","Andrew Dickson, Frank Millero","adickson@ucsd.edu, fmillero@rsmas.miami.edu"
+Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`","Rik Wanninkhof","Rik.Wanninkhof@noaa.gov"
+SADCP,:term:`UH`,Eric Firing,efiring@soest.hawaii.edu
+:term:`LADCP`,:term:`LDEO`,Andreas Thurnherr,ant@ldeo.columbia.edu
+":term:`CFCs`, :term:`SF6`, :term:`N20`",:term:`UW`,Mark Warner,warner@u.washington.edu
+":term:`DOC`, :term:`TDN`, :term:`TOC`, :term:`TN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
+C13 & C14,":term:`UW`, :term:`WHOI`","Rolf Sonnerup, Roberta Hansman","rolf@uw.edu, rhansman@whoi.edu"
+Transmissometry,:term:`TAMU`,Wilf Gardner,wgardner@ocean.tamu.edu
+Chipod,:term:`OSU`,Jonathan Nash,nash@coas.oregonstate.edu
+Argo Floats,":term:`UW`, :term:`UCSD`, :term:`SIO`","Steve Riser, Dean Roemmich, John Gilson, Kevin Speer, Steve Rintoul","riser@ocean.washington.edu, droemmich@ucsd.edu, jegilson@gmail.com"
+BGC Floats,":term:`UW`, :term:`UCSD`, :term:`SIO`","Steve Riser, Ken Johnson, Lynne Talley","riser@ocean.washington.edu, ltalley@ucsd.edu"
+Spotter drifters,"Sofar Ocean",Cameron Dunning,cameron@sofarocean.com
+Sargassum,":term:`WHOI`",Dennis McGillicuddy,dmcgillicuddy@whoi.edu

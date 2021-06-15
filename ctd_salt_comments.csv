@@ -1,0 +1,265 @@
+001/01,101,Bottle,3,cms,Leaking.
+011/01,101,Reference T,3,cms,SBE35 value does not match profile or adjacent casts. Code questionable.
+011/01,133,Reference T,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+011/01,133,CTD T1 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+011/01,133,CTD T2 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+011/01,134,Reference T,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+011/01,134,CTD T1 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+011/01,134,CTD T2 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+012/01,102,Salinity,4,cms,Salinity value high vs DCTC1/CTDC2 for this part of profile. Value better matches level 3. Possible mis-sample. code bad.  
+012/01,128,CTD T2 Temperature,4,cms,CTDT2 high vs CTDT1/SBE35. Code bad.
+012/01,129,Salinity,2,cms,Salinity value high vs CTDC1/CTDC2. High gradient. Matches upcast. Code good.
+013/01,122,Salinity,2,cms,Salinity value high vs CTDC1/CTDC2. High gradient. Matches upcast. Code good.
+014/03,303,Bottle,3,slog,Bottle leaking. Bad.
+014/03,305,Bottle,3,slog,Bottle slow flow. Possible blocked spigot.
+014/03,306,Bottle,3,slog,Bottle leaking. Top air vent left open.
+014/03,318,Bottle,3,slog,Bottle leaking. Bad.
+014/03,331,Bottle,3,slog,Bottle leaking. Bad.
+015/01,104,Bottle,2,slog,Grease on spigot.
+015/01,105,Bottle,3,slog,Bottle slow flow. Possible blocked air vent.
+015/01,118,Bottle,3,slog,Bottle leaking. Possible top end cap. Replaced top end cap after cast.
+016/01,108,Bottle,3,slog,Bottle leaking. Top o-ring not seated correctly.
+016/01,118,Bottle,3,slog,Bottle leaking. Replaced Bottletle after cast. 
+016/01,122,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. High gradient. Sensor needed more time to equilibrate. Code bad.
+016/01,122,Salinity,2,cms,Salinity value high vs CTDC1/CTDC2. High gradient. Matches upcast. Code good.
+017/01,110,Bottle,3,slog,Leaking from Bottletom end cap.
+017/01,122,Bottle,3,slog,Leaker
+018/01,118,CTD T1 Temperature,3,cms,CTDT1 low vs CTDC2/SBE35. Code questionable.
+018/01,119,Salinity,2,cms,CTDT1 low vs CTDC2/SBE35. Salinity valuie matches upcast.
+018/01,122,Salinity,4,cms,Salinity value anomalously high. Code bad.
+019/02,221,Reference T,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+019/02,221,CTD T1 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+019/02,221,CTD T2 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+019/02,222,Reference T,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+019/02,222,CTD T1 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+019/02,222,CTD T2 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+002/03,321,Salinity,2,cms,Salinity value low vs CTDC1/CTDC2. Matches upcast data. Code good.
+022/01,103,Bottle,3,slog,Bottle had slight leak before vent opened.
+022/01,106,Bottle,2,slog,Lanyard broken then replaced after sampling.
+023/02,222,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. Sensor did not equilibrate.
+023/02,222,Salinity,2,cms,Salinity value low vs CTDC1/CTDC2. High gradient. Matches up-cast. Code good. 
+024/01,127,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. High gradient. Sensor likely not equilibrated. 
+024/01,127-129,Bottle,2,slog,Nutrient sampler skipped ahead of CFCS sampling.
+025/01,103,Bottle,3,slog,Bottle had slight leak before vent opened.
+025/01,134,Bottle,2,slog,"Bottle ran out of water prior to HPLC, nutrient and Salinity sample draw."
+026/01,113,Bottle,2,slog,13 has a lot of grease on the cap.
+026/01,131,Bottle,2,slog,31 clip on lanyard does not close properly.
+026/01,135,Salinity,2,cms,Salinity value high vs CTDT1/CTDT2. High gradient.Salinity matches up-cast. Code good.
+029/01,103,Bottle,3,slog,Leak.
+030/01,103,Bottle,3,slog,Leaking. Vent not closed tight.
+030/01,107,Bottle,2,slog,Bottle is loose.
+030/01,125,Bottle,3,slog,Leaking. Vent not closed tight.
+031/03,307,CTD T2 Temperature,4,cms,CTDT2 lower vs CTD1/SBE35. Anomalous. Code bad
+032/01,110,Salinity,4,cms,Salinity value high vs CTDC1/CTDC2. Low gradient. Code bad.
+032/01,115,Bottle,2,slog,Lanyard caught on 15 during recovery. Not sure if opened.
+032/01,121,Bottle,4,cms,Mis-trip.
+032/01,121,Salinity,3,cms,Mis-trip.
+032/01,129,CTD T1 Temperature,4,cms,CTDT1 lower vs CTD2/SBE35. Anomalous. Code bad
+033/01,101,Salinity,4,cms,Salinity value does not match Bottletom of profile. Value matches Bottletle 35. May have been mis-sampled.
+033/01,102,Salinity,4,cms,Salinity value does not match Bottletom of profile. Code bad. 
+033/01,111,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+033/01,116,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+033/01,121,Bottle,4,cms,Mis-trip
+033/01,121,Salinity,3,cms,Mis-trip
+033/01,130-134,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate. 40 dbar change in pressure depth of thermocline from beginning of cast to end of cast.
+034/01,103,Bottle,3,slog,Leaker. Vent was not closed.
+034/01,117,Bottle,3,slog,Leaker. Vent was not closed.
+034/01,125,Bottle,3,slog,Leaker. Vent was not closed.
+034/01,131,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+034/01,121,Bottle,4,cms,Mis-trip
+034/01,121,Salinity,3,cms,Mis-trip
+034/01,127,Bottle,4,cms,Mis-trip
+034/01,127,Salinity,3,cms,Mis-trip
+035/01,108,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+035/01,123,CTD T1 Temperature,4,cms,CTDT1 high vs CTDT2/SBE35. Code bad.
+035/01,124-125,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+035/01,128,CTD T2 Temperature,4,cms,CTDT2 high vs CTDT1/SBE35. Code bad.
+035/01,133,CTD T1 Temperature,4,cms,CTDT1 low vs CTDT2/SBE35. Code bad.
+035/01,130-131,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+036/01,126,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+036/01,128,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+036/01,130,Reference T,4,cms,Tripped on the fly due to weather. SBE35 did not equilibrate.
+036/01,131,CTD T1 Temperature,4,cms,CTDT1 low vs CTDT2/SBE35. Code bad. 
+037/01,104,Reference T,4,cms,SBE35 value does not fit profile. Bottle tripped on the fly. Sensor did not equilibrate. Code bad.
+037/01,123,CTD T1 Temperature,4,cms,CTDT1 high vs CTDT2/SBE35. Code bad.
+037/01,124,Reference T,4,cms,SBE35 value does not fit profile. Bottle tripped on the fly in high gradient. Sensor did not equilibrate. Code bad.
+038/01,103,Bottle,3,cms,Leaker.
+038/01,103,Salinity,4,cms,Salinity value high vs CTDC1/CTDC2 for this depth. Code bad.
+038/01,132,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable.
+039/01,134,Bottle,3,slog,Almost all water lost on btl 34. O-ring not seated correctly. Enough water was left to collect nutrients.
+039/01,103,Bottle,3,slog,Leaker. Air vent not seated correctly.
+004/01,130,Salinity,2,cms,Salinity value high vs CTDC1/CTDC2. Matches upcast data. Code good.
+004/01,129,Salinity,4,cms,Salinity value high vs CTDC1/CTDC2. 
+040/01,107,Salinity,4,cms,Salinity value does not match this part of the profile. Possibly mis-sampled or run out of order.
+040/01,112,Bottle,2,slog,Lanyard snapped on recovery.
+040/01,112,Salinity,4,cms,Salinity value does not match this part of the profile. Possibly mis-sampled or run out of order.
+040/01,136,Bottle,2,slog,Bottle might have been fired out of the water due to winch display problems.
+041/02,211,Bottle,3,slog,Leaking. Vent was not closed tightly.
+041/02,227,Reference T,4,cms,SBE35 low vs CTDT1/CTDT2. Sensor did not equilibrate. Code bad.
+041/02,231,Reference T,4,cms,SBE35 low vs CTDT1/CTDT2. Sensor did not equilibrate. Code bad.
+042/02,211,Bottle,3,slog,Leaking. Top vent was cracked replaced after cast. 
+042/02,219,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. Some interleaving. Sensor likely not equilibrated. Code bad.
+042/02,223,Reference T,3,cms,Unstable temperatures in all three sensors. Code questionable.
+042/02,223,CTD T1 Temperature,3,cms,Unstable temperatures in all three sensors. Code questionable.
+042/02,223,CTD T2 Temperature,3,cms,Unstable temperatures in all three sensors. Code questionable.
+043/01,105,Bottle,3,slog,Leaking from Bottletom end cap. Lanyard adjusted after sampling.
+043/01,107,CTD T2 Temperature,3,cms,CTDT2 value low vs SBE35/CTDT1. Code questionable.
+043/01,130,Reference T,3,cms,Unstable temperature values in all three sensors. Code questionable.
+043/01,130,CTD T1 Temperature,3,cms,Unstable temperature values in all three sensors. Code questionable.
+043/01,130,CTD T2 Temperature,3,cms,Unstable temperature values in all three sensors. Code questionable.
+044/01,117,CTD T1 Temperature,3,cms,CTDT1 reads low vs SBE35/CTDT2. Variation around feature. code questionable.
+044/01,131,Salinity,4,cms,Bottle value is too high vs CTDC1/CTDC2. Value better matches sample at level ~127 dbar. This salinity sample appears to have been sampled from Bottletle number 30.
+045/01,130,Salinity,5,cms,Bottle was skipped during sampling. Not reported.
+045/01,117,CTD T1 Temperature,3,cms,CTDT1 reads low vs SBE35/CTDT2. Variation around feature. code questionable.
+046/01,104,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2 for this part of profile. Low gradient. Wait time probably not observed for sensor to equilibrate. Code bad. 
+046/01,108,Salinity,4,cms,Salinity value high for this part if profile. Matches trip level 7. Possible mis-sample. Code bad.
+047/01,106,Salinity,4,cms,Sample value does not match this part of profile. Appears to have been mis-sampled or run out of order.
+047/01,115,Salinity,4,cms,Salinity value high vs CTDT1/CTDT2. Code bad.
+047/01,122,CTD T2 Temperature,3,cms,CTDT2 value low vs CTDT1/SBE35. Code questionable.
+047/01,124,CTD T2 Temperature,3,cms,CTDT2 value low vs CTDT1/SBE35. Code questionable.
+047/01,132,CTD T2 Temperature,3,cms,CTDT2 value low vs CTDT1/SBE35. Code questionable.
+047/01,134,Bottle,3,cms,Broken o-ring. No water coming out of petcock.
+048/01,102-123,Salinity,4,cms,Unstable lab temperatures.
+048/01,132,CTD T2 Temperature,3,cms,CTDT2 low vs SBE35/CTDT1. Code questionable.
+048/01,134,Bottle,4,cms,Bottle did not fire.
+049/01,101-129,Salinity,4,cms,Unstable lab temperatures.
+049/01,121,Reference T,4,cms,SBE35 low vs CTDT1/CTDT2. Code bad.
+049/01,125,CTD T1 Temperature,3,cms,CTDT1 low vs SBE35/CTDT2. Code questionable.
+049/01,126,Reference T,4,cms,"SBE35 high vs CTDT1/CTDT2. High gradient, sensor not equilibrated. Code bad."
+049/01,127,CTD T1 Temperature,4,cms,CTDT1 low vs SBE35/CTDT2. Code questionable.
+005/01,119,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Some interleaving. Sensor likely not equilibrated. Code bad.
+005/01,133,Salinity,2,cms,Salinity value low vs CTDC1/CTDC2. Matches up cast. Code good.
+050/01,133,CTD T2 Temperature,4,cms,CTDT2 high vs SBE35/CTDT1. Code bad.
+050/01,135,CTD T2 Temperature,4,cms,CTDT2 low vs SBE35/CTDT1. Code bad.
+050/01,115,CTD T1 Temperature,4,cms,CTDT1 low vs SBE35/CTDT2. Code bad.
+051/01,104,CTD T1 Temperature,3,cms,CTDT1 high vs CTDT2/SBE35. Code bad. 
+051/01,133,CTD T2 Temperature,3,cms,CTDT2 high vs CTDT1/SBE35. Code questionable. 
+052/01,119,CTD T1 Temperature,3,cms,CTDT2 low vs SBE35/CTDT1. Code questionable.
+052/01,118,Salinity,4,cms,Salinity value does not match this part of profile. Value better matches btl 19. Possibly mis-sampled.
+053/01,129,CTD T2 Temperature,3,cms,CTDT2 low vs SBE35/CTDT1. Code questionable.
+053/01,130,Reference T,3,cms,Unstable temperatures in all 3 sensors. Code questionable.
+053/01,130,CTD T1 Temperature,3,cms,Unstable temperatures in all 3 sensors. Code questionable.
+053/01,130,CTD T2 Temperature,3,cms,Unstable temperatures in all 3 sensors. Code questionable.
+054/01,103,Bottle,3,slog, Leaking. Vent not tight.
+054/01,115,Bottle,4,cms, Bottle mis-trip. 
+054/01,115,Salinity,3,cms, Bottle mis-trip. 
+054/01,129,CTD T2 Temperature,3,cms, CTDT2 low vs SBE35/CTDT1. Code questionable.
+054/01,130,CTD T2 Temperature,3,cms, CTDT2 low vs SBE35/CTDT1. Code questionable.
+055/01,131,Reference T,4,cms,"SBE35 value low vs CTDT1/CTDT2. High gradient, sensor not equilibrated. Code bad. "
+056/01,112,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. Slight gradient and feature. Sensor likely not equilibrated. Code questionable.
+056/01,131,Reference T,3,cms,Unstable temperatures in all three sensors. High gradient. Code questionable.
+056/01,131,CTD T1 Temperature,3,cms,Unstable temperatures in all three sensors. High gradient. Code questionable.
+056/01,131,CTD T2 Temperature,3,cms,Unstable temperatures in all three sensors. High gradient. Code questionable.
+057/01,103,Bottle,3,slog,Leaking. Top vent not tight enough.
+057/01,111,Salinity,4,cms,Bottle value does not match this part of cast. Value resembles level 13. Probably mis-sampled.
+057/01,116,CTD T2 Temperature,4,cms,CTDT2 value high vs CTDT1/SBE35. Code unusable.
+057/01,119,CTD T2 Temperature,4,cms,CTDT2 value high vs CTDT1/SBE35. Code unusable.
+057/01,132,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. High gradient. Sensor not equilibrated. Code unusable.
+058/01,117,CTD T2 Temperature,3,cms,CTDT2 value low vs SBE35/CTDT1. Some gradient. Code questionable. 
+058/01,119,Reference T,3,cms,Unstable temperatures in all three sensors. High gradient. Code questionable.
+058/01,119,CTD T1 Temperature,3,cms,Unstable temperatures in all three sensors. High gradient. Code questionable.
+058/01,119,CTD T2 Temperature,3,cms,Unstable temperatures in all three sensors. High gradient. Code questionable.
+059/01,115,Reference T,4,cms, SBE35 high vs CTDT1/CTDT2. Some gradient. Sensor likely did not equilibrate. Code bad.
+059/01,118,Reference T,4,cms, SBE35 high vs CTDT1/CTDT2. High gradient. Sensor did not equilibrate. Code bad.
+006/01,115,CTD T1 Temperature,3,cms,CTDT1 reads low vs SBE35/CTDT2. Variation around slight feature. code questionable.
+006/01,135,Bottle,3,cms,Leaking due to chipod cable. Cable moved.
+060/01,106,CTD T2 Temperature,3,cms,CTDT2 value low vs SBE35/CTDT1. Code questionable.
+060/01,114,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable.
+060/01,120,CTD T1 Temperature,3,cms,CTDT1 high vs SBE35/CTDT2. High gradient. Code unusable.
+060/01,121,Reference T,3,cms,SBE35 did not equilibrate. Code questionable.
+060/01,121,Salinity,4,cms,Salinity value 
+060/01,133,CTD T2 Temperature,3,cms,CTDT2 high vs SBE35/CTDT1. High gradient. Code unusable.
+061/01,119,Reference T,4,cms, High gradient. SBE35 did not equilibrate. Code unusable.
+061/01,122,CTD T2 Temperature,3,cms, CTDT2 high vs SBE35/CTDT1. High gradient. Code unusable.
+061/01,133,CTD T1 Temperature,3,cms, CTDT1 high vs SBE35/CTDT2. High gradient. Code unusable.
+062/01,118,CTD T1 Temperature,3,cms,CTDT1 low vs SBE35/CTDT2. High gradient. Code questionable.
+062/01,119,CTD T2 Temperature,3,cms,CTDT2 high vs SBE35/CTDT1. High gradient. Code questionable.
+062/01,120,CTD T1 Temperature,3,cms,CTDT1 low vs SBE35/CTDT2. High gradient. Code questionable.
+062/01,132,CTD T2 Temperature,3,cms,CTDT2 high vs SBE35/CTDT1. High gradient. Code questionable.
+062/01,133,CTD T2 Temperature,3,cms,CTDT2 low vs SBE35/CTDT1. High gradient. Code questionable.
+062/01,134,Reference T,3,cms,High gradient. Unstable temperatures in all three sensors. Code unusable.
+062/01,134,Reference T,3,cms,High gradient. Unstable temperatures in all three sensors. Code unusable.
+062/01,134,CTD T1 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code unusable.
+062/01,134,CTD T2 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code unusable.
+063/01,117,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Gradient. Code questionable.
+063/01,118,CTD T1 Temperature,4,cms,CTDT1 low vs SBE35/CTDT2. Gradient. Code unusable.
+063/01,120,CTD T2 Temperature,4,cms,CTDT2 low vs SBE35/CTDT1. Gradient. Code unusable.
+063/01,134,CTD T1 Temperature,3,cms,CTDT2 high vs SBE35/CTDT1. High gradient. Code questionable.
+064/01,133,Reference T,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+064/01,133,CTD T1 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+064/01,133,CTD T2 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+065/02,215,CTD T2 Temperature,3,cms,CTDT2 value high vs CTDT1/SBE35. Code questionable.
+065/02,216,CTD T2 Temperature,3,cms,CTDT2 value high vs CTDT1/SBE35. Code questionable.
+065/02,218,Reference T,4,cms, SBE35 high vs CTDT1/CTDT2. High gradient. Sensor did not equilibrate. Code bad.
+065/02,231,CTD T2 Temperature,3,cms,CTDT2 value high vs CTDT1/SBE35. Code unusable.
+065/02,234,Reference T,4,cms,"SBE35 value high vs CTDT1/CTDT2. High gradient, sensor did not equilibrate. Code unusable."
+066/01,121,CTD T2 Temperature,3,cms,CTDT2 value low vs SBE35/CTDT1. High gradient. Code questionable.
+067/01,133,CTD T2 Temperature,4,cms,CTDT2 value high vs SBE35/CTDT1. Code unusable.
+067/01,135,CTD T1 Temperature,3,cms,CTDT1 value high vs SBE35/CTDT2. Code questionable.
+068/01,115,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable.
+068/01,118,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable.
+068/01,130,CTD T1 Temperature,3,cms,CTDT1 value high vs SBE35/CTDT2. Code questionable.
+068/01,132,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable.
+068/01,134,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable.
+068/01,134,ctdc1,3,cms,CTDC1 value high vs SALT/CTDC2. Code questionable.
+068/01,134,ctdc2,3,cms,CTDC2 value high vs SALT/CTDC1. Code questionable.
+069/01,117,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2. Value batter matches trip level 19. Likely mis-sampled. Code bad.
+069/01,136,CTD T1 Temperature,3,cms,CTDT1 value high vs SBE35/CTDT2. Code questionable.
+007/02,206,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2 and better matches trip level 8. Possibly mis-sampled. Code bad.
+007/02,228,Bottle,3,cms,Small leak.
+007/02,228,Salinity,4,cms,Salinity value high vs CTDC1/CTDC2. Leak noted on Bottletle. Code bad.
+007/02,235,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2. Surface value. Code bad.
+070/01,108,Reference T,4,cms,SBE35 high vs CTDT1/CTDT2. Sensor likely not equilibrated. Code unusable.
+070/01,133,Reference T,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+070/01,133,CTD T1 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+070/01,133,CTD T2 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+070/01,134,Salinity,2,cms,Salinity value high vs CTDC1/CTDC2. Value matches up-cast not down-cast. Code good.
+071/01,121,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Gradient; sensor likely not equilibrated. Code unusable.  
+071/01,131,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT2. Code questionable. 
+071/01,133,Reference T,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+071/01,133,CTD T1 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+071/01,133,CTD T2 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+071/01,134,Reference T,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+071/01,134,CTD T1 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+071/01,134,CTD T2 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code questionable.
+071/01,136,Salinity,2,cms,Salinity value high vs CTDC1/CTDC2. Value matches up-cast not down-cast. Code good. 
+072/02,201,Salinity,4,cms,Salinity value high vs CTDC1/CTDC2. Value better matches trip level 3. Possibly mis-sampled. Code bad.
+072/02,219,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Gradient; sensor likely not equilibrated. Code unusable.  
+072/02,234,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable. 
+073/01,105,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2. Code bad.
+073/01,106,CTD T2 Temperature,3,cms,CTDT2 value high vs SBE35/CTDT1. Code questionable. 
+073/01,117,CTD T1 Temperature,3,cms,CTDT1 value high vs SBE35/CTDT2. Code unusable. 
+074/01,101,Salinity,4,cms,Salinity value high vs CTDC1/CTDC2 and low for Bottletom part of profile. AutoSal cell likely not flushed well for first initial sample. Code bad.
+075/01,136,Reference T,5,cms,Not reported. Data over written.
+076/02,201-236,Reference T,5,cms,Not reported. Data over written.
+077/01,101-132,Reference T,5,cms,Not reported. Data over written.
+078/01,101-121,Reference T,5,cms,Not reported. Data over written.
+079/01,103,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2 and low for Bottletom part of profile. Code bad.
+079/01,105,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2 and low for Bottletom part of profile. Code bad.
+079/01,110,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Sensor not equilibrated. Code bad.
+079/01,121,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Sensor not equilibrated. Code bad.
+008/01,103,Salinity,4,cms,Salinity value low cs CTDC1/CTDC2 and better matches trip level 1. Possibly mis-sampled. Code bad.
+008/01,104,Salinity,3,cms,Salinity value low vs CTDC1/CTDC2. Code questionable.
+008/01,109,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2 and better matches trip level 8. Possibly mis-sampled. Code bad.
+008/01,110,Salinity,4,cms,Salinity value low vs CTDC1/CTDC2 and better matches trip level 9. Possibly mis-sampled. Code bad.
+008/01,133,Reference T,3,cms,High gradient. Sensor not equilibrated. Code bad.
+008/01,133,Salinity,2,cms,Salinity high vs CTDC1/CTDC2. High gradient. Matches up-cast feature. Code good.
+080/01,110,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Sensor likely not equilibrated. Code bad. 
+080/01,116,CTD T1 Temperature,3,cms,CTDT1 value high vs SBE35/CTDT2. Code questionable.  
+081/02,201,Salinity,4,cms,Salinity value high CTDC1/CTDC2 at Bottletom of water column. Code bad.
+081/02,205,CTD T2 Temperature,3,cms,CTDT2 value high vs CTDT1/SBE35. Code questionable.
+081/02,218,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Sensor likely not equilibrated. Code bad. 
+082/01,118,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Sensor likely not equilibrated. Code bad. 
+082/01,126,Reference T,3,cms,High gradient. Unstable temperatures in all three sensors. Code unusable.
+082/01,126,CTD T1 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code unusable.
+082/01,126,CTD T2 Temperature,3,cms,High gradient. Unstable temperatures in all three sensors. Code unusable.
+083/01,114,Salinity,4,cms,Salinity value high vs CTDC1/CTDC2. Code bad.
+083/01,118,CTD T1 Temperature,3,cms,CTDT1 value high vs SBE35/CTDT2. Code questionable.
+083/01,131,CTD T1 Temperature,3,cms,CTDT1 value low vs SBE35/CTDT2. Code questionable.
+083/01,132,Reference T,4,cms,SBE35 value high vs CTDT1/CTDT2. Sensor likely not equilibrated. Code bad. 
+083/01,133,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. Sensor likely not equilibrated. Code bad. 
+083/01,134,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. Sensor likely not equilibrated. Code bad. 
+083/01,135,Reference T,4,cms,SBE35 value low vs CTDT1/CTDT2. Sensor likely not equilibrated. Code bad. 
+009/01,135,Reference T,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+009/01,135,CTD T1 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
+009/01,135,CTD T2 Temperature,3,cms,Unstable temperature in all 3 sensors. Code questionable.
