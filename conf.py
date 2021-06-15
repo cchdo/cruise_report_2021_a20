@@ -216,7 +216,7 @@ latex_elements = {
 #'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
-'preamble': '\usepackage{pdfpages}\extrafloats{100}',
+"preamble": r"\usepackage{pdfpages}\extrafloats{100}",
 
 # Latex figure (float) alignment
 #'figure_align': 'htbp',
