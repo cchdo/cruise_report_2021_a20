@@ -19,20 +19,21 @@ Underwater Sampling Package
 
 |PACK| casts were performed with a package consisting of a 36 bottle rosette frame, a 36-place carousel and 36 Bullister style Niskin bottles with an absolute volume of 10.6L.
 Underwater electronic components primarily consisted of a SeaBird Electronics housing unit with Paroscientific pressure sensor with dual plumbed lines where each line has a pump, temperature sensor, conductivity sensor, and exhaust line.
-A SeaBird Electronics membrane oxygen sensor was mounted on the "primary" line. A reference thermometer, transmissometer, chlorophyll-a fluorometer and backscatter meter, and altimeter were also mounted on the rosette.
-Chipod, LADCP, and UVP instruments were deployed with the CTD/rosette package and their use is outlined in sections of this document specific to their titled analysis.
+A SeaBird Electronics membrane oxygen sensor was mounted on the "primary" line.
+A reference thermometer, Rinko oxygen optode, transmissometer, chlorophyll-a fluorometer, and altimeter were also mounted on the rosette.
+Chipod and LADCP instruments were deployed with the CTD/rosette package and their use is outlined in sections of this document specific to their titled analysis.
 
 CTD and cage were horizontally mounted at the bottom of the rosette frame, located below the carousel for all stations.
 The temperature, conductivity, dissolved oxygen, respective pumps and exhaust tubing was mounted to the CTD and cage housing as recommended by SBE.
 The reference temperature sensor was mounted between the primary and secondary temperature sensors at the same level as the intake tubes for the exhaust lines.
 The transmissometer was mounted horizontally on the lower LADCP brace with hose clamps around both of its ends, avoiding shiny metal or black tape inside that would introduce noise in the signal.
-The fluorometer and backscatter meter and altimeters were mounted vertically inside the bottom ring of the rosette frames, with nothing obstructing their line of sight.
+The oxygen optode, fluorometer, and altimeter were mounted vertically inside the bottom ring of the rosette frames, with nothing obstructing their line of sight.
 The 150 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on the bottom side of the frame.
 The 150 Khz LADCP was later replaced with a 300 Khz LADCP during the cruise in the same position.
 The 300 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on the top side of the frame.
 The LADCP battery pack was also mounted on the bottom of the frame.
 The LADCP and LADCP battery pack were mounted next to each other at the beginning of the cruise.
-If we imagine the LADCP being north on the rosette, the LADCP battery was mounted east, the CTD mounted west, and the UVP mounted south.
+If we imagine the LADCP battery being north on the rosette, the LADCP was mounted east, and the CTD mounted south.
 
 .. tabularcolumns:: |l|l|l|l|l|l|
 
