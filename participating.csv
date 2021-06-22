@@ -7,11 +7,13 @@ Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`","Rik Wanninkhof","Rik.Wanninkhof@
 SADCP,:term:`UH`,Eric Firing,efiring@soest.hawaii.edu
 :term:`LADCP`,:term:`LDEO`,Andreas Thurnherr,ant@ldeo.columbia.edu
 ":term:`CFCs`, :term:`SF6`, :term:`N20`",:term:`UW`,Mark Warner,warner@u.washington.edu
-":term:`DOC`, :term:`TDN`, :term:`TOC`, :term:`TN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
+":term:`DOC`, :term:`TDN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
+"Microgels",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
 C13 & C14,":term:`UW`, :term:`WHOI`","Rolf Sonnerup, Roberta Hansman","rolf@uw.edu, rhansman@whoi.edu"
 Transmissometry,:term:`TAMU`,Wilf Gardner,wgardner@ocean.tamu.edu
 Chipod,:term:`OSU`,Jonathan Nash,nash@coas.oregonstate.edu
-Argo Floats,":term:`UW`, :term:`UCSD`, :term:`SIO`","Steve Riser, Dean Roemmich, John Gilson, Kevin Speer, Steve Rintoul","riser@ocean.washington.edu, droemmich@ucsd.edu, jegilson@gmail.com"
-BGC Floats,":term:`UW`, :term:`UCSD`, :term:`SIO`","Steve Riser, Ken Johnson, Lynne Talley","riser@ocean.washington.edu, ltalley@ucsd.edu"
+Argo Floats,":term:`WHOI`","Susan Wijffels, Steven Jayne, Pelle Robbins","swijffels@whoi.edu, sjayne@whoi.edu, probbins@whoi.edu."
+BGC Floats,":term:`MBARI`, :term:`UW`, :term:`Princeton`, :term:`SIO`, :term:`WHOI`","Kenneth Johnson, Steven Riser, Jorge Sarmiento, Lynne Talley, Susan Wijffels","johnson@mbari.org, riser@uw.edu, jls@princeton.edu, ltalley@ucsd.edu, swijffels@whoi.edu"
+Nitrate isotopes,":term:`Princeton`",Daniel Sigman,sigman@princeton.edu
 Spotter drifters,"Sofar Ocean",Cameron Dunning,cameron@sofarocean.com
 Sargassum,":term:`WHOI`",Dennis McGillicuddy,dmcgillicuddy@whoi.edu
