@@ -77,11 +77,11 @@ Core Argo Floats
 ----------------
 
 PIs
-  * Steven Riser (UW)
-  * Kenneth Johnson (MBARI)
-  * Lynne Talley (SIO)
+  * Susan Wijffels (WHOI)
+  * Steven Jayne (WHOI)
+  * Pelle Robbins (WHOI)
 
-A total of 7 core Argo floats were deployed on this cruise (Table [CoreArgoTable.csv]).
+A total of 7 core Argo floats were deployed on this cruise.
 Co-chief scientist Andreas Thurnherr and Thompson marine technicians Elizabeth Ricci and Stephen Jalickee were in charge of the deployments.
 Additional assistance was provided by Stephanie O’Daly and the ABs on watch.
 All floats were deployed without problems using instructions provided by Jessica Kiosk and at the locations provided before the
