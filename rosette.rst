@@ -283,9 +283,9 @@ April 9, 2021
 
 April 10, 2021
 
-07201 – Bottle 25 mistrip, temperatures for 24-26 were 14, 20, 14C.
+07201 – Bottle 25 mistrip, temperatures for 24-26 were 14.5, 20.0, 15.8 ºC.
 
-07301 – Bottle 2 mistrip again, temperatures 7-15-7?
+07301 – Bottle 2 mistrip again, temperatures 7.3, 23.2, and 8.0 ºC.
 
 07401 – Fired bottles 1, 4, 3, 2, then normal (to avoid continually losing near-bottom depth, i.e., bottle 2).
 
