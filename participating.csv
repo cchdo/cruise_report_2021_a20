@@ -1,7 +1,7 @@
 Program,Affiliation,Principal Investigator,Email
 ":term:`CTDO` Data, Salinity, Nutrients, Dissolved |O2|",":term:`UCSD`, :term:`SIO`","Susan Becker, Jim Swift","sbecker@ucsd.edu, jswift@ucsd.edu"
 Total |CO2| (DIC),":term:`AOML`, :term:`PMEL`, :term:`NOAA`","Richard Feely, Rik Wanninkhof","richard.a.feely@noaa.gov, Rik.Wanninkhof@noaa.gov"
-"Underway Temperature, Salinity, and |pCO2|",":term:`PMEL`, :term:`NOAA`",Richard Feely,richard.a.feely@noaa.gov
+"Underway Temperature, Salinity, and |pCO2|",":term:`PMEL`, :term:`NOAA`",Simone Alin,simone.r.alin@noaa.gov
 "Total Alkalinity, pH",":term:`SIO`, :term:`RSMAS`","Andrew Dickson, Frank Millero","adickson@ucsd.edu, fmillero@rsmas.miami.edu"
 Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`","Rik Wanninkhof","Rik.Wanninkhof@noaa.gov"
 SADCP,:term:`UH`,Eric Firing,efiring@soest.hawaii.edu

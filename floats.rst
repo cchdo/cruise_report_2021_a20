@@ -13,6 +13,7 @@ Shipboard personnel:
   * Andreas Thurnherr (LDEO)
   * Elizabeth Ricci (UW SSSG)
   * Stephen Jalickee (UW SSSG)
+  * Stephanie O'Daly (UAF)
 
 
 8 biogeochemical (BGC) Argo floats were deployed on A20 as part of the Global Ocean Biogeochemistry (GO-BGC) program (https://go-bgc.org), which is funded by NSF Award 1946578.

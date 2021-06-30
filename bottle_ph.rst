@@ -3,6 +3,7 @@ Discrete pH Analyses (Total Scale)
 
 PI
   * Dr. Andrew Dickson
+  * Dr. Frank Millero
 Technicians 
   * Daniela Nestory
   * Albert Ortiz

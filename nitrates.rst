@@ -5,7 +5,10 @@ PI:
   * Daniel Sigman (Princeton University)
 
 Samplers:
-  * CTD Watch Standers
+  * Francesca Alatorre
+  * Cassondra DeFoor
+  * Paige Hoel
+  * Elana Perez
 
 Nitrate (|NO3-|) is the primary form of fixed nitrogen (N) in the sea and an essential macronutrient, 
 the supply of which can limit primary production and carbon export from the surface ocean.

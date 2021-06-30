@@ -2,7 +2,8 @@ Total Alkalinity
 ================
 
 PI
-  * Andrew G. Dickson – Scripps Institution of Oceanography
+  * Andrew G. Dickson – SIO
+  * Frank Millero - RSMAS
 Technicians
   * Manuel Belmonte
   * Carmen Rodriguez

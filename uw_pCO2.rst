@@ -2,7 +2,7 @@ Underway pCO2
 =========================================
 
 PIs
-  * Richard Feely (NOAA/PMEL)
+  * Simone Alin (NOAA/PMEL)
 Analysts
   * Andrew Collins (NOAA/PMEL)
 
@@ -25,7 +25,7 @@ This dataset should be considered preliminary; additional quality control and qu
 
 .. figure:: images/pCO2/pCO2_surface.*
 
-  Spatial distribution of the relevant parameters (sea surface temperature [SST, oC], sea surface salinity [PSU], fCO2 [ppm], pH, and DO [M]) measured by the underway pCO2 system during the 2019 GO-SHIP I06S research expedition.
+  Spatial distribution of the relevant parameters (sea surface temperature [SST, oC], sea surface salinity [PSU], fCO2 [ppm], pH, and DO [M]) measured by the underway pCO2 system during the 2021 GO-SHIP A20 research expedition.
 
 
 .. [Pierrot2009] Pierrot, D., Neill, C., Sullivan, K., Castle, R., Wanninkof, R.W., Lüger, H., Johannessen, T., Olsen, A., Feely, R.A., Cosca, C.E.;
