@@ -10,7 +10,7 @@ Abbreviations
     Atlantic Oceanographic and Meteorological Laboratory
 
   AP
-    Particulate Absorbtion Spectra
+    Particulate Absorption Spectra
 
   APL
     Applied Physics Laboratory
