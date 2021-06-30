@@ -21,6 +21,9 @@ Abbreviations
   BAS
     British Antartic Survey
 
+  BGC
+    Biogeochemical
+
   Bigelow
     Bigelow Laboratory for Ocean Sciences
 
@@ -49,10 +52,13 @@ Abbreviations
     ENSTA ParisTech
 
   ETHZ
-    Edgenössische Technische Hochschule Zürich
+    Eidgenössische Technische Hochschule Zürich
 
   FSU
     Florida State University
+
+  GO-BGC
+    Global Ocean Biogeochemistry Array
 
   HPLC
     High-Performance Liquid Chromatography
@@ -61,13 +67,16 @@ Abbreviations
     Lamont-Doherty Earth Observatory - Columbia University
 
   LADCP
-    Lowered Accoustic Doppler Profiler
+    Lowered Accoustic Doppler Current Profiler
 
   MBARI
     Monterey Bay Aquarium Research Institute
 
   MIT
     Massachussetts Institute of Technology
+
+  N2O
+    Nitrous oxide
 
   NOAA
     National Oceanographic Atmospheric Administration
@@ -79,7 +88,7 @@ Abbreviations
     National Science Foundation
 
   ODF
-    Ocean Data Facility - :term:`SIO`
+    Oceanographic Data Facility - :term:`SIO`
 
   OSU
     Oregon State University
@@ -98,6 +107,9 @@ Abbreviations
 
   RSMAS
     Rosenstiel School of Marine and Atmospheric Science - :term:`U Miami`
+
+  SADCP
+    Shipboard Acoustic Doppler Current Profiler
 
   SEG
     Shipboard Electronics Group
@@ -120,7 +132,7 @@ Abbreviations
   TDN
     Total Dissolved Nitrogen
 
-  UA
+  UArizona
     University of Arizona
 
   U ALASKA

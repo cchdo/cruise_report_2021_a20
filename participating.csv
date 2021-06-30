@@ -4,9 +4,9 @@ Total |CO2| (DIC),":term:`AOML`, :term:`PMEL`, :term:`NOAA`","Richard Feely, Rik
 "Underway Temperature, Salinity, and |pCO2|",":term:`PMEL`, :term:`NOAA`",Simone Alin,simone.r.alin@noaa.gov
 "Total Alkalinity, pH",":term:`SIO`, :term:`RSMAS`","Andrew Dickson, Frank Millero","adickson@ucsd.edu, fmillero@rsmas.miami.edu"
 Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`","Rik Wanninkhof","Rik.Wanninkhof@noaa.gov"
-SADCP,:term:`UH`,Eric Firing,efiring@soest.hawaii.edu
+:term:`SADCP`,:term:`UH`,Eric Firing,efiring@soest.hawaii.edu
 :term:`LADCP`,:term:`LDEO`,Andreas Thurnherr,ant@ldeo.columbia.edu
-":term:`CFCs`, :term:`SF6`, :term:`N20`",:term:`UW`,Mark Warner,warner@u.washington.edu
+":term:`CFCs`, :term:`SF6`, :term:`N2O`",:term:`UW`,Mark Warner,warner@u.washington.edu
 ":term:`DOC`, :term:`TDN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
 "Microgels",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
 C13 & C14,":term:`UW`, :term:`WHOI`","Rolf Sonnerup, Roberta Hansman","rolf@uw.edu, rhansman@whoi.edu"
