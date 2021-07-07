@@ -26,6 +26,12 @@ Measurements of dissolved organic carbon, nitrate isotopes, radiocarbon, and Sar
 will be measured in laboratories on shore.
 Core Argo and BGC-Argo floats along with SOFAR drifters were also deployed, generally after a CTD cast while leaving station. 
 
+.. figure:: images/A20_map.*
+
+  Cruise track and station locations. 
+  The lack of cruise track between the last station and the end port of St. Thomas, USVI is due to the ship science data logger being turned off after the last station since the ship would enter Surinamese waters shortly after departing.
+
+
 Programs and Principal Investigators
 ------------------------------------
 
