@@ -1,5 +1,12 @@
 Student Statements
 ==================
+U.S. GO-SHIP thanks all of the students who participated on the cruise for their important contribution to collection of this essential global ocean data set, used as the benchmark for accuracy of all other deep ocean observing systems. 
+The training opportunity for students and leadership is an important part of US GO-SHIP’s mission. 
+We are committed to do so in a fair, cooperative and professional environment, ensuring an inclusive, safe and productive climate at sea. 
+We thank the students for their honest reflections on their experiences that are included in this section. 
+We have reached out to those who expressed concerns and are taking issues raised seriously, by working to address and prevent these issues from occurring in the future. 
+We also thank them for their feedback in the anonymous post-cruise survey, which we are using to continue to improve our program. 
+This will include ongoing education for all members of our community to create a more inclusive environment.
 
 Francesca Alatorre
 ------------------
