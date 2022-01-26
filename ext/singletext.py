@@ -3,11 +3,14 @@ from os import path
 
 from docutils.io import StringOutput
 
+from sphinx.util import logging
 from sphinx.util.console import bold, darkgreen, brown
 from sphinx.util.nodes import inline_all_toctrees
 from sphinx.util.osutil import ensuredir, os_path
 from sphinx.builders.text import TextBuilder
 from sphinx.writers.text import TextWriter, TextTranslator
+
+logger = logging.getLogger(__name__)
 
 class SingleFileTextTranslator(TextTranslator):
     def visit_start_of_file(self, node):
@@ -45,16 +48,16 @@ class SingleFileTextBuilder(TextBuilder):
     def write(self, *ignored):
         docnames = self.env.all_docs
 
-        self.info(bold('preparing documents... '), nonl=True)
+        logger.info(bold('preparing documents... '))
         self.prepare_writing(docnames)
-        self.info('done')
+        logger.info('done')
 
-        self.info(bold('assembling single document... '), nonl=True)
+        logger.info(bold('assembling single document... '))
         doctree = self.assemble_doctree()
-        self.info()
-        self.info(bold('writing... '), nonl=True)
+        logger.info("")
+        logger.info(bold('writing... '))
         self.write_doc(self.config.master_doc, doctree)
-        self.info('done')
+        logger.info('done')
 
 def setup(app):
     app.add_builder(SingleFileTextBuilder)
