@@ -15,7 +15,7 @@ Two Guildline Autosals were on board and operational, SIO-owned 8400B S/N 69-180
 S/N 69-180 was used for all salinity measurements during this cruise.
 The salinity analysis was run in the ship's Climate Controlled Chamber, a refrigerator port and amidships between the Computer Lab and Bioanalytical Lab.
 Both instruments were serviced prior to the cruise by their respective institutions and shipped to WHOI with other equipment in March.
-IAPSO Standard Seawater Batch P-166 was used for all calibrations: K15 =0.99985, salinity 34.994, expiration 2023-03-23.
+IAPSO Standard Seawater Batch P-164 was used for all calibrations: K15 =0.99985, salinity 34.994, expiration 2023-03-23.
 A LabView program developed by Carl Mattson was used for monitoring temperatures, logging data and prompting the operator.
 Salinity analyses were performed after samples had equilibrated to laboratory temperature of 23°C, usually 8 hours or more after collection.
 The salinometer was standardized for each group of samples analyzed (normally 1 or 2 casts, up to 72 samples) using two bottles of standard seawater:
