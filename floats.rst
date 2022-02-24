@@ -65,7 +65,7 @@ The location and date of the float deployments are indicated in the table below,
   ======= ===== ========= ========  =================== ============= ======================= ================
   5906342 19142 -52.33    40.0657   03/24/2021 2347     18            Clean                   Stephen Jalickee
   5906341 19061 -52.33    35.8859   03/27/2021 0800     25            Clean; No first profile Elizabeth Ricci
-  5906440 19107 -52.33    31.66     03/29/2021 1240     30            Line tangled            Elizabeth Ricci
+  5906440 19107 -52.33    31.66     03/29/2021 1240     32            Line tangled            Elizabeth Ricci
   5906435 19512 -52.33    27.64     03/31/2021 1515     39            Clean                   Elizabeth Ricci
   5906340 19364 -52.33    24.14     04/02/2021 1215     45            Clean                   Elizabeth Ricci
   5906339 19588 -52.33    20.06     04/04/2021 1340     52            Clean                   Elizabeth Ricci
